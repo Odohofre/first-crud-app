@@ -1,4 +1,3 @@
-"use client";
 import { AuthContextProvider } from "@/context/AuthContext";
 import "./globals.css";
 
